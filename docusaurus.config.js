@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Bhati.JS',
+  title: 'Hakunamatata.js',
   tagline: 'Learning Docusaurus',
   url: 'https://your-docusaurus-bhati.js',
   baseUrl: '/',
@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'docusaurus-2', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Bhati.JS',
+      title: 'Bhati.JHakunamata.JS',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
