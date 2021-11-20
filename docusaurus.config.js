@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Hakunamatata.js',
+  title: 'Demo.js',
   tagline: 'Learning Docusaurus',
   url: 'https://your-docusaurus-bhati.js',
   baseUrl: '/',
